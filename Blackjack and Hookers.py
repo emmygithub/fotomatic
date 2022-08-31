@@ -1,6 +1,6 @@
 ##############################################
 #                                            #
-# Blackjack and Hookers                      #
+# A Blackjack and Hookers  projects          #
 #                                            #
 ##############################################
 
@@ -170,3 +170,4 @@ else:
             winning_player = f"player {i + 1}"
     input(f"{winning_player} wins with {highest_hand}!")
 input("Thanks for playing!")
+input("Play again anytime!")
